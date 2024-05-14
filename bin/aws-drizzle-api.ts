@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-import 'source-map-support/register';
 import * as cdk from 'aws-cdk-lib';
-import { AwsDrizzleApiStack } from '../lib/aws-drizzle-api-stack';
+import 'source-map-support/register';
+import { AwsDrizzleApiStack } from '../stacks/aws-drizzle-api-stack';
 
 const app = new cdk.App();
 new AwsDrizzleApiStack(app, 'AwsDrizzleApiStack', {
