@@ -1,6 +1,6 @@
 **Project: aws-serverless-drizzle-cdk-poc**
 
-This project demonstrates a Proof of Concept (POC) for utilizing Drizzle within an AWS Serverless environment. Drizzle is a lightweight Object-Relational Mapper (ORM) that simplifies database interactions in Node.js applications. Please don't use prisma in your project, it's a nightmare in a serverless environment. 
+This project demonstrates a Proof of Concept (POC) for utilizing Drizzle within an AWS Serverless environment. Drizzle is a lightweight Object-Relational Mapper (ORM) that simplifies database interactions. Please don't use prisma in your project, it's a nightmare in a serverless environment. 
 
 **Getting Started**
 
